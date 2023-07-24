@@ -1,7 +1,9 @@
+import MainContainer from "./containers/MainContainer";
+import "bootstrap/dist/css/bootstrap.min.css";
 function App() {
   return (
     <>
-      <h2>React Redux Application</h2>
+      <MainContainer />
     </>
   );
 }

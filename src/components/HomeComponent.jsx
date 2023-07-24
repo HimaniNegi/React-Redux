@@ -9,7 +9,9 @@ const HomeComponent = () => {
         <BiBasket className="basket-img" />
         <span className="total-cart-circle">1</span>
       </div>
-      <h2 className="text-center py-3">Home Component</h2>
+      <h4 className="text-center py-3">
+        <u>Shopping Website</u>
+      </h4>
       <div className="card mb-3 w-25 m-auto">
         <div className="row">
           <div className="col-md-4 img-wrapper item d-flex justify-content-end align-items-center">
